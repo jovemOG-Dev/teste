@@ -1,20 +1,22 @@
 ![OG banner](./assets/banner.jpg)
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<p align="center" style="margin-top: -10px">
+<a href="https://www.linkedin.com/in/gabriel-silva-gomes">
+<img src ="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+</a>
+</p>
 
-<h3 align="center">
-  Aspiring Software Developer & Enthusiast
-</h3>
+<p align="left" style="margin-top: -10px">
+  Welcome! <img src="./assets/Hi.gif" width="20" heigth="17" style="transform: scaleX(-1);"> 
 
-<p align="center">
-  I do not currently work in the field, but I am passionate about technology and actively building my skills to launch a career in software development.
+  I’m Gabriel, an enthusiastic aspiring Full Stack Developer and creative coder, currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end and back-end development to deliver impactful solutions.
 </p>
 
 <div align="left">
 
   <p align="left">
-    📍 <b>Location:</b> [City, Country]<br>
-    🎓 <b>Education:</b> Studying [Course Name] at [University Name]<br>
+    📍 <b>Location:</b> São Paulo, Brasil<br>
+    🎓 <b>Education:</b> System Development Student at Senac<br>
     🎯 <b>Focus:</b> Improving my command of Full Stack technologies and Software Architecture.
   </p>
   
@@ -38,50 +40,29 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemOG-Dev"/>
 </a>
 
-  ---
+<br>
 
-  <h3>Languages and Tools</h3>
-  <p>
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-    </a>
-    <a href="https://angular.io" target="_blank">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/> 
-    </a>
-    <br/>
-    <a href="https://www.mysql.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-    </a>
-    <a href="https://github.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> 
-    </a>
-  </p>
+  ## ⚙️ Tech Stack
 
-  ---
+<details>
+<summary style="margin-bottom: 10px">💻 Languages & Frameworks</summary>
 
-  <h3>Connect with me</h3>
-  <p>
-    <a href="[YOUR LINKEDIN URL HERE]" target="_blank">
-      <img align="center" alt="LinkedIn" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-    </a>
-  </p>
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
+</details>
 
+
+<details>
+<summary style="margin-bottom: 10px">🛠️ Databases, Styling & Tools</summary>
+
+
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+</details>
 </div>
