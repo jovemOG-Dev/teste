@@ -1,12 +1,15 @@
 ![OG banner](./assets/banner.jpg)
 
-<p align="center" style="margin-top: -10px">
-<a href="https://www.linkedin.com/in/gabriel-silva-gomes">
-<img src ="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-</a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:gabriel.silvagomes2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
+  </a>
+</div>
 
-<p style="margin-top: -10px">
+<p>
   Welcome! <img src="./assets/Hi.gif" width="20" heigth="17"> 
 
   I’m Gabriel, an enthusiastic aspiring Full Stack Developer and creative coder, currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end and back-end development to deliver impactful solutions.
