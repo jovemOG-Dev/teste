@@ -1,3 +1,5 @@
+![OG banner](./assets/banner.jpg)
+
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <h3 align="center">
@@ -8,7 +10,7 @@
   I do not currently work in the field, but I am passionate about technology and actively building my skills to launch a career in software development.
 </p>
 
-<div align="center">
+<div align="left">
 
   <p align="left">
     📍 <b>Location:</b> [City, Country]<br>
@@ -16,11 +18,25 @@
     🎯 <b>Focus:</b> Improving my command of Full Stack technologies and Software Architecture.
   </p>
   
-  ---
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovemOG-Dev&show_icons=true&theme=radical)](https://github.com/jovemOG-Dev/)
+## 📌 Pinned Repositories 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovemOG-Dev)](https://github.com/jovemOG-Dev?tab=repositories)
+<a href="https://github.com/STeam-PI/Roupas_Angular-PI">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+</a>
+
+<a href="https://github.com/jovemOG-Dev/BR-Turismo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemOG-Dev&repo=BR-Turismo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+</a>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/jovemOG-Dev/">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jovemOG-Dev&show_icons=true&theme=radical"/>
+</a>
+
+<a href="https://github.com/jovemOG-Dev?tab=repositories">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemOG-Dev"/>
+</a>
 
   ---
 
