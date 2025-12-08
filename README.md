@@ -25,11 +25,11 @@
 ## 📌 Pinned Repositories 
 
 <a href="https://github.com/STeam-PI/Roupas_Angular-PI">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&bg_color=1A2B34&title_color=00CCFF&text_color=c9cacc&icon_color=00CCFF&show_icons=true&border_radius=15&border_color=79E6D9"/>
+  <img align="center" style="margin:1rem 1.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&bg_color=1A2B34&title_color=00CCFF&text_color=c9cacc&icon_color=00CCFF&show_icons=true&border_radius=15&border_color=79E6D9"/>
 </a>
 
 <a href="https://github.com/jovemOG-Dev/BR-Turismo">
-  <img align="center" style="margin:1.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin?username=jovemOG-Dev&repo=BR-Turismo&title_color=FAEC1F&text_color=c9cacc&icon_color=FAEC1F&bg_color=454509&border_color=FFB000&border_radius=15"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin?username=jovemOG-Dev&repo=BR-Turismo&title_color=FAEC1F&text_color=c9cacc&icon_color=FAEC1F&bg_color=454509&border_color=FFB000&border_radius=15"/>
 </a>
 
 
