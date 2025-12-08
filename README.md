@@ -1,4 +1,4 @@
-![OG banner](./assets/banner.jpg)
+![OG banner](./assets/banner3.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">
