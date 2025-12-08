@@ -44,7 +44,7 @@
 </a>
 
 <div align="center">
-  <img src=./assets/jake.png style="width:24%">
+  <img src=./assets/jake.png style="width:22%">
 </div>
 
   ## ⚙️ Tech Stack
