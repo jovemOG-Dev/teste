@@ -33,25 +33,22 @@
 </a>
 
 
+<div align="center">
+  
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="top" style="padding: 5px;">
-      <a href="https://github.com/jovemOG-Dev/">
-        <img src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
-      </a>
-      <br>
-      <img src="./assets/jake.png" style="width:50" alt="Imagem Decorativa" />
-    </td>
-    <td valign="top" style="padding: 5px;">
-      <a href="https://github.com/jovemOG-Dev?tab=repositories">
-        <img src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <div style="display: inline-block; width: 48%; vertical-align: top;">
+    <a href="https://github.com/jovemOG-Dev/">
+      <img src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c" width="100%" height="200px" />
+    </a>
+    <img src="./assets/jake.png" width="100%" height="200px" style="margin-top: 10px;"/>
+  </div>
+
+  <div style="display: inline-block; width: 48%; margin-left: 10px; vertical-align: top;">
+    <a href="https://github.com/jovemOG-Dev?tab=repositories">
+      <img src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook" width="100%" height="410px" />
+    </a>
+  </div>
 </div>
 
 <br>
