@@ -46,7 +46,6 @@
 <div align="center">
   <img src=./assets/jake.png style="width:27%">
 </div>
-
   ## ⚙️ Tech Stack
 
 <details>
