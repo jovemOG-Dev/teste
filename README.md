@@ -15,7 +15,6 @@
   I’m Gabriel, an enthusiastic aspiring Full Stack Developer and creative coder, currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end and back-end development to deliver impactful solutions.
 </p>
 
-<div align="left">
   <p>
     📍 <b>Location:</b> São Paulo, Brasil<br>
     🎓 <b>Education:</b> System Development Student at Senac<br>
@@ -99,5 +98,4 @@
 
 <div align="center">
   <img src="./assets/jake.png" style="width:22%">
-</div>
 </div>
