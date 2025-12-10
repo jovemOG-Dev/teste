@@ -22,31 +22,6 @@
     🎯 <b>Focus:</b> Improving my command of Full Stack technologies and Software Architecture.
   </p>
   
-## 📌 Pinned Repositories 
-
-<a href="https://github.com/STeam-PI/Roupas_Angular-PI">
-  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&bg_color=1A2B34&title_color=00CCFF&text_color=c9cacc&icon_color=00CCFF&show_icons=true&border_radius=15&border_color=79E6D9"/>
-</a>
-
-<a href="https://github.com/jovemOG-Dev/BR-Turismo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin?username=jovemOG-Dev&repo=BR-Turismo&title_color=FAEC1F&text_color=c9cacc&icon_color=FAEC1F&bg_color=454509&border_color=FFB000&border_radius=15"/>
-</a>
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/jovemOG-Dev?tab=repositories">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook"/>
-</a>
-
-<a href="https://github.com/jovemOG-Dev/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
-</a>
-
-<div align="center">
-  <img src="./assets/jake.png" style="width:22%">
-</div>
-
   ## ⚙️ Tech Stack
 
 <details>
@@ -91,4 +66,29 @@
   </a>
 </p>
 </details>
+
+## 📌 Pinned Repositories 
+
+<a href="https://github.com/STeam-PI/Roupas_Angular-PI">
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&bg_color=1A2B34&title_color=00CCFF&text_color=c9cacc&icon_color=00CCFF&show_icons=true&border_radius=15&border_color=79E6D9"/>
+</a>
+
+<a href="https://github.com/jovemOG-Dev/BR-Turismo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin?username=jovemOG-Dev&repo=BR-Turismo&title_color=FAEC1F&text_color=c9cacc&icon_color=FAEC1F&bg_color=454509&border_color=FFB000&border_radius=15"/>
+</a>
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/jovemOG-Dev?tab=repositories">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook"/>
+</a>
+
+<a href="https://github.com/jovemOG-Dev/">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
+</a>
+
+<div align="center">
+  <img src="./assets/jake.png" style="width:22%">
+</div>
 </div>
