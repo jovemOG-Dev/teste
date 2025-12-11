@@ -1,9 +1,6 @@
 <div align="center">
   <video src="https://zgtzou1kedgrli0b.public.blob.vercel-storage.com/banner.mp4"
-       autoplay
-       loop
-       muted
-       playsinline
+       controls
        style="width: 100%; height: auto;">
 </video>
 </div>
