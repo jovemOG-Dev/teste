@@ -1,9 +1,4 @@
-<div align="center">
-  <video src="https://zgtzou1kedgrli0b.public.blob.vercel-storage.com/banner.mp4"
-       controls
-       style="width: 100%; height: auto;">
-</video>
-</div>
+![OG banner](./assets/banner-day.gif)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">
