@@ -1,7 +1,7 @@
 ![OG banner](./assets/banner-day.gif)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jovemOG-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jovemOG-Dev&label=Profile%20Views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="GitHub Profile Views"/>
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
