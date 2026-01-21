@@ -2,49 +2,43 @@ name: Update README Banner
 
 on:
   schedule:
-    - cron: "0 8 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 22 * * *"
-  workflow_dispatch:
+    # Horários em UTC correspondentes a SP
+    - cron: "0 8 * * *"   # 05h SP
+    - cron: "0 16 * * *"  # 13h SP
+    - cron: "0 22 * * *"  # 19h SP
+  workflow_dispatch:         # permite rodar manualmente
+
+permissions:
+  contents: write
 
 jobs:
   update-banner:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout com credenciais persistentes e histórico completo
       - uses: actions/checkout@v4
         with:
-          persist-credentials: true  # garante que o push use o token do workflow
-          fetch-depth: 0            # necessário para rebase seguro
+          persist-credentials: true
+          fetch-depth: 0
 
+      # 2️⃣ Configura Node.js
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # 3️⃣ Gera README com o script
       - name: Gerar README
-        run: node generate-readme.js
+        run: |
+          node generate-readme.js
+          # Log para conferir qual banner foi selecionado
+          echo "Banner atualizado. Confira o README.md"
 
-      - name: Commit changes
+      # 4️⃣ Commit e push seguro (sempre sobrescreve o README)
+      - name: Commit e push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: atualizar banner do README"
-
-      - name: Pull latest changes and push
-        run: |
-          # garante que temos refs recentes
-          git fetch origin main
-
-          # rebase com autostash para evitar falhas por alterações locais não-staged
-          if ! git pull --rebase --autostash origin main; then
-            git rebase --abort || true
-            echo "Rebase failed — aborting and exiting"
-            exit 1
-          fi
-
-          # push; --force-with-lease é usado apenas como fallback seguro contra race conditions
-          if ! git push origin main; then
-            echo "Push failed, trying --force-with-lease"
-            git push --force-with-lease origin main
-          fi
+          git commit -m "chore: atualizar banner do README" || echo "Nenhuma alteração para commitar"
+          git push origin main --force
