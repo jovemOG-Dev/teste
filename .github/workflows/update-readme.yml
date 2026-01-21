@@ -2,11 +2,11 @@ name: Update README Banner
 
 on:
   schedule:
-    # Manhã (05h Brasil)
+    # Manhã (05h Brasil = 08h UTC)
     - cron: "0 8 * * *"
-    # Tarde (13h Brasil)
+    # Tarde (13h Brasil = 16h UTC)
     - cron: "0 16 * * *"
-    # Noite (19h Brasil)
+    # Noite (19h Brasil = 22h UTC)
     - cron: "0 22 * * *"
   workflow_dispatch:
 
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-            persist-credentials: true  # garante que o push use o token do workflow
+          persist-credentials: true  # garante que o push use o token do workflow
 
       - uses: actions/setup-node@v4
         with:
@@ -31,9 +31,13 @@ jobs:
 
       - name: Commit e push
         run: |
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add README.md
-            git diff --cached --quiet || git commit -m "chore: atualizar banner do README"
-            git pull --rebase origin main  # Add this line
-            git push
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          # só faz commit se houver alterações
+          git diff --cached --quiet || git commit -m "chore: atualizar banner do README"
+          # traz o estado mais recente do remoto e aplica rebase
+          git fetch origin main
+          git rebase origin/main
+          # envia para o remoto
+          git push origin main
